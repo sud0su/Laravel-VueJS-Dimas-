@@ -2,7 +2,7 @@
 
 lakukan clone dari repo
 
-    git clone 
+    git clone https://github.com/sud0su/Laravel-VueJS-Dimas-.git
 
 kemudian masuk ke dalam folder laravelvuejs
 
